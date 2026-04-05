@@ -1,0 +1,4 @@
+Rencanaku tahun ini adalah belajar beberapa bahasa pemrograman.
+
+- Javascript
+- Php
